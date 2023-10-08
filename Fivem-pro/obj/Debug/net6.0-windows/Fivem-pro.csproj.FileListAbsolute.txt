@@ -1,0 +1,16 @@
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\bin\Debug\net6.0-windows\Fivem-pro.exe
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\bin\Debug\net6.0-windows\Fivem-pro.deps.json
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\bin\Debug\net6.0-windows\Fivem-pro.runtimeconfig.json
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\bin\Debug\net6.0-windows\Fivem-pro.dll
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\bin\Debug\net6.0-windows\Fivem-pro.pdb
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem_pro.Form1.resources
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.csproj.GenerateResource.cache
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.AssemblyInfoInputs.cache
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.AssemblyInfo.cs
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.csproj.CoreCompileInputs.cache
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.dll
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\refint\Fivem-pro.dll
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.pdb
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\Fivem-pro.genruntimeconfig.cache
+E:\Work\C#\Projects\Simple1\Fivem-pro\Fivem-pro\obj\Debug\net6.0-windows\ref\Fivem-pro.dll
